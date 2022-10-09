@@ -2,7 +2,7 @@
   <tr>
   <td width="50%">
 
-&nbsp; <br> [![Spotify](https://ags-s.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/MissSaccharine)
+&nbsp; <br> [![Spotify](https://ags-s.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/teenagexlobotomy)
 
   </td>
   <td width="50%">
